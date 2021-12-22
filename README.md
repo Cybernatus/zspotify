@@ -4,6 +4,8 @@
 
 # ZSpotify
 
+# THIS IS THE LASTEST VERSION OF ZSPOTIFY BEFORE THE PROJET ENDED.
+
 ### A Spotify downloader needing only a python interpreter and ffmpeg.
 
 <p align="center">
